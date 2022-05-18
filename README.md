@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm CoffeeeAtNight</h1>
 <h3 align="center">A Junior Web-/Software developer</h3>
 
+---
+
 
 - 🔭 I’m currently working on **A realtime chat application**
 
