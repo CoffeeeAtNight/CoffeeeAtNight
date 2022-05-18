@@ -22,5 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/CoffeeeAtNight"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CoffeeeAtNight" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=coffeeeatnight&show_icons=true&theme=dark&title_color=6f4e37&text_color=6f4e37&bg_color=b7a69b&locale=en" alt="coffeeeatnight" /></p>
