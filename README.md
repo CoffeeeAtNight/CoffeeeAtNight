@@ -4,7 +4,7 @@
 ---
 
 
-- 🔭 I’m currently working on **A realtime chat application**
+- 🔭 I’m currently working on **a realtime chat application**
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java)**
 
