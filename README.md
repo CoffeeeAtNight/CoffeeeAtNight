@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **me@latenightcoffee.org or on Discord: Akiii#0001**
 
-- ⚡ Fun fact **I'm really into building custom keyboards, Speedrunning Games, 3D Modeling and love to listen to J-Pop / J-Rock!**
+- ⚡ Fun facts **I'm really into building custom keyboards, Speedrunning Games, 3D Modeling and love to listen to J-Pop / J-Rock!**
 
 
 <h3 align="left">Languages and Tools:</h3>
