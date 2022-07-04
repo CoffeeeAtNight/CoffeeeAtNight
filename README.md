@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CoffeeeAtNight</h1>
-<h3 align="center">A Junior Web-/Software developer</h3>
+<h3 align="center">A Junior Software- / Web developer</h3>
 
 ---
 
