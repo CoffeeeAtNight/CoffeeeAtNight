@@ -4,13 +4,13 @@
 ---
 
 
-- 🔭 I’m currently working on **a realtime chat application**
+- 🔭 I’m currently working on **two versions of my realtime chat application (Blueberry-Tea Chat) in Java and in Javascript**
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java)**
 
-- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(LUKSO) etc.)**
+- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO) etc.)**
 
-- 📝 I regularly write articles on [https://latenightcoffee.org](https://latenightcoffee.org)
+- 📝 I usually write articles on [https://latenightcoffee.org](https://latenightcoffee.org)
 
 - 📫 How to reach me **me@latenightcoffee.org or on Discord: Akiii#0001**
 
