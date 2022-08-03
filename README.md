@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **two versions of my realtime chat application (Blueberry-Tea Chat) in Java and in Javascript**
 
-- 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java)**
+- 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java), RxJava**
 
 - 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO) and RxJava)**
 
