@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java)**
 
-- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO) etc.)**
+- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO))**
 
 - 📝 I usually write articles on [https://latenightcoffee.org](https://latenightcoffee.org)
 
