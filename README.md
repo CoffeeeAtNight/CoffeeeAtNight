@@ -4,7 +4,7 @@
 ---
 
 
-- 🔭 I’m currently working on **two versions of my realtime chat application (Blueberry-Tea Chat) in Java and in Javascript**
+- 🔭 I’m currently working on **My Game Development skills / C#**
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java), RxJava**
 
