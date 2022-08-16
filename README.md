@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java), RxJava, C#, Unity**
 
-- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO) and RxJava)**
+- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO)** and **RxJava)**
 
 - 📝 I usually write articles on [https://latenightcoffee.org](https://latenightcoffee.org)
 
