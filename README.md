@@ -4,7 +4,7 @@
 ---
 
 
-- 🔭 I’m currently working on **My Game Development skills / C#** 
+- 🔭 I’m currently working on **My Game Development skills / C#**
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Solidity, Kotlin (Java), RxJava, C#, Unity**
 
