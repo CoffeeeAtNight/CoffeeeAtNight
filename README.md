@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Seach-Engine that serves medical advice upon entering symptoms (Side project)**
 
-- 🌱 I’m currently learning **Vert.x, Vue.js, Angular, Kotlin (Java), RxJava, C#**
+- 🌱 I’m currently learning **Vert.x, Vue.js, Angular, Kotlin (Java), RxJava, C#, more about good UX**
 
 - 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO)) and RxJava**
 
