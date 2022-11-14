@@ -1,7 +1,7 @@
 <h1 align="center">Hey,👋 my name is CoffeeeAtNight</h1>
 <h3 align="center">A passionate Junior Software Developer | Web-Developer and UI / UX designer.</h3>
 
-- 🔭 I’m currently working on **Vert.x and Kotlin skills**
+- 🔭 I’m currently working on **A Seach-Engine that serves medical advice upon entering symptoms (Side project)**
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Angular, Kotlin (Java), RxJava, C#**
 
