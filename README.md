@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Vert.x and Kotlin skills, and a deeper undeerstanding of the Web.**
 
-- 📝 I usually write articles on **https://latenightcoffee.org**
-
 - 🌱 I’m currently learning **Vert.x, Vue.js, Angular, Kotlin (Java), RxJava, C#**
 
 - 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO)) and RxJava**
