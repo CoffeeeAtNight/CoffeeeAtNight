@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **me@latenightcoffee.org or on Discord: Akiii#0001**
 
-- ⚡ Fun facts **I'm really into building custom keyboards, Speedrunning Games and love to listen to J-Pop / J-Rock and play Pokemon!!**
+- ⚡ Fun facts **I'm really into building custom keyboards, Speedrunning Games and love to listen to J-Pop / J-Rock and play Pokemon!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
