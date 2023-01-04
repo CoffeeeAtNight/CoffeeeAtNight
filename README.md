@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Angular, Kotlin (Java), RxJava, C#, more about good UX!**
 
-- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO)) and RxJava**
+- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO)) and RxJava!**
 
 - 📫 How to reach me **me@latenightcoffee.org or on Discord: Akiii#0001**
 
