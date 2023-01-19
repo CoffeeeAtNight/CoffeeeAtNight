@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(Ether. , LUKSO)) and RxJava!**
 
-- 📫 How to reach me **me@latenightcoffee.org **
+- 📫 How to reach me **me@latenightcoffee.org**
 
 - ⚡ Fun facts **I'm really into building custom keyboards, Speedrunning Games and love to listen to J-Pop / J-Rock and play Pokemon!**
 
