@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vert.x, Vue.js, Angular, Kotlin (Java), RxJava, C#, more about good UX!**
 
-- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(LUKSO)) and RxJava**
+- 🤝 I’m looking for help with **Web3 (Smart Contract, Blockchain(LUKSO)) and RxJava**!
 
 - ⚡ Fun facts **I'm really into building custom keyboards, Speedrunning Games and love to listen to J-Pop / J-Rock and play Pokemon**
 
