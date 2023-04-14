@@ -9,7 +9,7 @@
 
 - ⚡ Fun facts **I'm really into building custom keyboards, Speedrunning Games and love to listen to J-Pop / J-Rock and play Pokemon!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: contact@aki-dev.com</h3>
 <p align="left">
 </p>
 
