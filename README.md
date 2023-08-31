@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm CoffeeeAtNight</h1>
 <h3 align="center">A passionate Fullstack Software Developer, Web-Developer and hardware enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoffeeeAtNight&theme=onedark" alt="CoffeeeAtNight" /></a> </p>
-
 - 🔭 I’m currently working on **A simple Game in C++ using SFML**
 - 👯 I’m looking to collaborate on **C++ or Rust realted Open-Source Projects**
 - 🤝 I’m looking for help with **System Design and Embeeded Programming**
