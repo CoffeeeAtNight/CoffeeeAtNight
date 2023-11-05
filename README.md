@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CoffeeeAtNight</h1>
 <h3 align="center">A passionate Fullstack Software Developer, Web-Developer and hardware enthusiast</h3>
 
-- 🔭 I’m currently working on **A simple Game in C++ using SFML**
+- 🔭 I’m currently working on **A simple Chat-App to practice Go**
 - 👯 I’m looking to collaborate on **C++ or Rust related Open-Source Projects**
 - 🤝 I’m looking for help with **System Design and Embedded Programming**
 - 🌱 I’m currently learning **C++, Rustlang, Kotlin, Java**!
