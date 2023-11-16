@@ -6,7 +6,6 @@
 - 🤝 I’m looking for help with **System Design and Embedded Programming**
 - 🌱 I’m currently learning **C++, Rustlang, Kotlin, Golang**!
 - 💬 Ask me about **HTML, CSS, API Design, Linux, anything you want!**
-- 📫 How to reach me **contact@aki-dev.com**
 - ⚡ Fun fact **I am really into building custom mechanical keyboards. I enjoy speedrunning games and I love Nintendo and its products!**
 
 <h3 align="left">Languages and Tools:</h3>
