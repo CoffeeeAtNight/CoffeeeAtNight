@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **System Design and Embedded Programming**
 - 🌱 I’m currently learning **C, C++, Rustlang, Kotlin, Golang**!
 - 💬 Ask me about **HTML, CSS, API Design, Linux, or anything you want!**
-- ⚡ Fun fact **I am really into building custom mechanical keyboards. I enjoy speedrunning games and I love Nintendo and its products!**
+- ⚡ Fun fact **I am really into building custom mechanical keyboards. I enjoy speedrunning games and I love Nintendo and it's products!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
