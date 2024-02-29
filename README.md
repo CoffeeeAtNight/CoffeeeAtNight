@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Software Developer, Cloud Engineer and hardware enthusiast</h3>
 
 - 🔭 I’m currently working on **an IOT Voice Assistant, communicating over a self-made protocol named AVTP built on top off TCP written in Rust and Go using LLM to answer questions**
-- 👯 I’m looking to collaborate on **C++ or Rust related Open-Source Projects**
+- 👯 I’m looking to collaborate on **C++, Rust and Go related Open-Source Projects**
 - 🤝 I’m looking for help with **System Design and Embedded Programming**
 - 🌱 I’m currently learning **C, C++, Rustlang, Kotlin, Golang**!
 - 💬 Ask me about **HTML, CSS, API Design, Linux, or anything you want!**
